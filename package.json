@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/sanket1726/github-actions/issues"
   },
-  "homepage": "https://github.com/sanket1726/github-actions#readme"
+  "homepage": "https://github.com/sanket1726/github-actions#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "pino": "^9.3.2",
+    "pino-pretty": "^11.2.2"
+  }
 }
