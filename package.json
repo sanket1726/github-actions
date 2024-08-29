@@ -1,0 +1,23 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "This project is made with intention of lerning and exploring github-actions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket1726/github-actions.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript"
+  ],
+  "author": "sanket1726",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanket1726/github-actions/issues"
+  },
+  "homepage": "https://github.com/sanket1726/github-actions#readme"
+}
